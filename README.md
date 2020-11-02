@@ -1,7 +1,7 @@
 # Stock Return Prediction
 The goal is to predict next period price returns of AAPL given its past prices.
 
-# Objectives
+#### Objectives
 Machine Learning topics involved in this project:
 
 - Exploratory Data Analysis
