@@ -14,3 +14,7 @@ The data directory contains one file per ticker for 24 stocks, with a history go
 
 - Price: Close, Open, High, Low
 - Volume
+
+- Tech Stack: Python, Google Colab, TensorFlow, Keras, Pandas, Seaborn
+
+- Final project for FRE 7773 Machine Learning in Python (Spring 2020)
